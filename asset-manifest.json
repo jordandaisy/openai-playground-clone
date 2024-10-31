@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/openai-playground-clone/static/css/main.8cf71a5e.css",
+    "main.js": "/openai-playground-clone/static/js/main.d9091049.js",
+    "static/js/453.09a0c1df.chunk.js": "/openai-playground-clone/static/js/453.09a0c1df.chunk.js",
+    "index.html": "/openai-playground-clone/index.html",
+    "main.8cf71a5e.css.map": "/openai-playground-clone/static/css/main.8cf71a5e.css.map",
+    "main.d9091049.js.map": "/openai-playground-clone/static/js/main.d9091049.js.map",
+    "453.09a0c1df.chunk.js.map": "/openai-playground-clone/static/js/453.09a0c1df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cf71a5e.css",
+    "static/js/main.d9091049.js"
+  ]
+}
